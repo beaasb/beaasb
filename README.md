@@ -18,7 +18,6 @@
 
 <h3> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 </h3>
   
- <div align="center">
  <div>
    <a href="https://github.com/beaasb">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beaasb&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
