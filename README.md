@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> 😁 <b><i> Olá! Sejam Bem Vindos(as/es) ao meu perfil GitHub</b></em> 😁</h1>
+ 
+  <h1> 😁 𝑶𝒍𝒂́! 𝑺𝒆𝒋𝒂𝒎 𝑩𝒆𝒎 𝑽𝒊𝒏𝒅𝒐𝒔(𝒂𝒔/𝒆𝒔) 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝑮𝒊𝒕𝑯𝒖𝒃 😁</h1>
 
   ![github1](https://user-images.githubusercontent.com/103227087/198352833-3a51d734-eab7-40c1-af28-5eebf84f8afc.png)
 
@@ -38,7 +39,7 @@
 ---
 
  <div align="center">
- <h3> Redes Sociais </h3>
+ <h3> 𝚁𝚎𝚍𝚎𝚜 𝚂𝚘𝚌𝚒𝚊𝚒𝚜 </h3>
  
  <div>
    <a href="https://instagram.com/beaasbb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
