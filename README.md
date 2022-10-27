@@ -23,8 +23,8 @@
  <div style="display: inline_block">
  <br>
    <a href="https://github.com/beaasb">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beaasb&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaasb&layout=compact&langs_count=6&theme=omni"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beaasb&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaasb&layout=compact&langs_count=6&theme=omni"/>
 
 </div>
   <br>
