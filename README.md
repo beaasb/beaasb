@@ -8,7 +8,7 @@
     <h2> 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </h2>
     
     • 👩🏽‍🎓 Estudante de Engenharia da Computação, na 
-    Universidade São Francisco (USF). Atualmente estou no oitavo semestre!
+    Universidade São Francisco (USF). Atualmente estou no décimo semestre!
 
     • ✨ Apaixonada por tecnologias e programação!!
 
