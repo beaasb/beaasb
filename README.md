@@ -7,13 +7,13 @@
   <div>
     <h2> 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </h2>
     
-    • 👩🏽‍🎓 Estudante de Engenharia da Computação, na 
-    Universidade São Francisco (USF). Atualmente estou no décimo semestre!
+      • 👩🏽‍🎓 Estudante de Engenharia da Computação, na 
+      Universidade São Francisco (USF). Atualmente estou no décimo semestre!
 
-    • ✨ Apaixonada por tecnologias e programação!!
+      • ✨ Apaixonada por tecnologias e programação!!
 
-    • 🏅 Estou atualmente estudando Front-end fora da faculdade, para me aperfeiçoar nesta área. 
-    Porém pretendo num futuro próximo me tornar uma desenvolvedora FullStack.
+      • 🏅 Estou atualmente estudando Front-end fora da faculdade, para me aperfeiçoar nesta área. 
+      Porém pretendo num futuro próximo me tornar uma desenvolvedora FullStack.
   </div>
 
 ---
