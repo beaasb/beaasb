@@ -7,13 +7,13 @@
   <div>
     <h2> 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </h2>
     
-      • 👩🏽‍🎓 Estudante de Engenharia da Computação, na 
-      Universidade São Francisco (USF). Atualmente estou no décimo semestre!
+      • 👩🏽‍🎓 Graduada de Engenharia da Computação, na 
+      Universidade São Francisco (USF). Concluí a faculdade em 2024!
 
-      • ✨ Apaixonada por tecnologias e programação!!
+      • ✨ Apaixonada por tecnologias, programação, games e séries!!
 
-      • 🏅 Estou atualmente estudando Front-end fora da faculdade, para me aperfeiçoar nesta área. 
-      Porém pretendo num futuro próximo me tornar uma desenvolvedora FullStack.
+      • 🏅 Estou atualmente estudando Java, AdvPL e SQL para me aperfeiçoar nesta área de programação. 
+      E pretendo num futuro próximo me tornar uma desenvolvedora de sistemas.
   </div>
 
 ---
@@ -27,7 +27,8 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaasb&layout=compact&langs_count=6&theme=omni"/>
 
 </div>
-  <br>
+    <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
